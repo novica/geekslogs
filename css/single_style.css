@@ -39,7 +39,8 @@ body {
 	}
 	#header p,
 	#header h1,
-	#header h2 {
+        #header h2,
+	#header h3 {
 		padding:.4em 15px 0 15px;
 		margin:0;
 	}
