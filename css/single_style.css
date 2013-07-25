@@ -6,8 +6,8 @@ body {
 		width:100%;
 		background:#98CC67;
 		min-width:600px;		/* Minimum width of layout - remove line if not required */
-						/* The min-width property does not work in old versions of Internet Explorer */
-		font-size:90%;
+		font-size: 18px;
+                line-height: 130%;
 	}
 	a {
 		color:#369;
