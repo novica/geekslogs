@@ -124,6 +124,9 @@ img {
   padding:0 0 1em 0;
   overflow:hidden;
 }
+.col1 p {
+  max-width: 40em;
+}
 /* Full page settings */
 .fullpage {
   background:#99CCCC;		/* page background colour */
